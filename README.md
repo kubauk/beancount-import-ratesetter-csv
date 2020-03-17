@@ -16,9 +16,11 @@ From there all transactions will either
 - Return money as an interest payment
 
 ### Conveniences
-While it is generally preferable to review and match the legs of every transaction after importing, this is very tedious due to the fact that all RateSetter transactions fall into one of the four types listed above. And as capital repayments are generally loaned out again, the number of transactions in a typical account can be very large. 
+While it is generally preferable to review and match the legs of every transaction after importing, this is very tedious as all RateSetter transactions fall into one of the four types listed above. 
 
-This importer, therefore, automates this process for you putting all loans, loan repayments and loan interest payment into accounts of your choosing.
+Also capital repayments are generally loaned out again, making the number of transactions in a typical account very large. 
+
+This importer automates this process for you putting all loans, loan repayments and loan interest payment into accounts of your choosing.
 
 ## Set up
 
