@@ -29,4 +29,4 @@ Set up is quite easy and all it requires is for the appropriate account names to
                                    'Assets:Investments:RateSetter:Loans',
                                    'Income:Investments:Taxable:RateSetter',
                                    'LenderTransactions.csv')
-
+	]
