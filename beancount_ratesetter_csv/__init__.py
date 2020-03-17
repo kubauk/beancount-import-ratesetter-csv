@@ -1,0 +1,3 @@
+import beancount_ratesetter_csv.importer
+
+RateSetterCsvImporter = importer.RateSetterCsvImporter
